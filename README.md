@@ -1,2 +1,1 @@
-# HW1-George-Mason-CS531
-Solution to HW1 problem 1 CS531
+C Program to print Ascending and Descending order of 10 strings with some restrictions
